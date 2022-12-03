@@ -2,8 +2,8 @@
 education:
   courses:
   - course: PhD in economics
-    institution: Autonoma de Madrid
-    year: 2023
+    institution: 
+    year: ongoing
   - course: Msc in economics
     institution: University of A Coruña
     year: 2022
