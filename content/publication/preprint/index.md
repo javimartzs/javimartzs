@@ -28,7 +28,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: Bebidas azucaradas / working paper
-url_pdf: http://webecpol.esade.edu/es/publicaciones/heterogeneous-response-and-spillover-effects-of-ssb-taxes/
+url_pdf: https://drive.google.com/file/d/1X2Qy8izydZHWlRjZ-ADMh08eEaEx-xNL/view?usp=sharing
 ---
 
 
