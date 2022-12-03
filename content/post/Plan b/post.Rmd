@@ -1,0 +1,12 @@
+---
+title: "Por que no deberiais tener un plan B?"
+author: "Javier Martinez Santos"
+date:  "`r Sys.Date()`"
+output: html_document
+---
+
+Por que no tener un plan B me ha ayudado enormemente a estar donde estoy ahora ?
+
+Actualmente, con 23 años recién cumplidos, soy trabajador indefinido de EsadeEcPol, el think tank de referencia en España. Pero que he hecho a lo largo de mi etapa académica hasta llegar aquí? Comencemos:
+
+En 2017 me matricule en Administración y Dirección de empresas en la UDC (el como llegué hasta ahí da para otra historia)
