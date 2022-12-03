@@ -10,10 +10,11 @@ main:
   - name: Blog
     url: '#posts'
     weight: 20
-  - name: Publicaciones
-    url: '#publications'
-    weight: 30
   - name: Gráficos
     url: '#gallery'
-    weight: 50
+    weight: 30
+  - name: Publicaciones
+    url: '#publications'
+    weight: 40
+
 
