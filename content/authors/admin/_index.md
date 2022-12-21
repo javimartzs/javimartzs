@@ -35,7 +35,7 @@ social:
   link: https://github.com/javimartzs
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/javimartzs
+  link: https://www.linkedin.com/in/javimartzs/
 superuser: true
 title: Javi Martínez
 ---
