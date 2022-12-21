@@ -40,10 +40,10 @@ superuser: true
 title: Javi Martínez
 ---
 
-Actualmente trabajo como economista en Esade Center for Economic Policy en Madrid. Soy graduado en administración y dirección de empresas con un master en analisis economico por la universidad de A Coruña. osteriormente, comenzaré el doctorado en economia por la universidad Autonoma de Madrid.
+Actualmente trabajo como economista en Esade Center for Economic Policy en Madrid. Soy graduado en Administración y Dirección de Empresas junto con el master de Análisis económico por la Universidad de A Coruña. El próximo curso comenzaré el doctorado en economía.
 
-Mis principales lineas de investigación son la economía laboral, la economía urbana y la evaluación de diferentes politicas publicas.
+Mis principales lineas de investigación son la economía laboral, la economía urbana y la evaluación de diferentes politicas públicas a partir de tecnicas de impacto causal.
 
-Soy un apasionado usuario de R con mucha curiosidad en la maniopulación y visualización de los datos.
+Soy un apasionado usuario de R con mucha curiosidad en la manipulación y visualización de los datos.
 
 No dudes en ponerte en contacto conmigo.
