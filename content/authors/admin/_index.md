@@ -1,9 +1,6 @@
 ---
 education:
   courses:
-  - course: PhD in economics
-    institution: 
-    year: ongoing
   - course: Msc in economics
     institution: University of A Coruña
     year: 2022
