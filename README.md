@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Data scientist projects**
 
-- 👨‍💻 All of my projects are available at [portfolio projects](wed)
+- 👨‍💻 All of my projects are available at [portfolio projects]()
 
-- 📝 I regularly write articles on [esadeecpol](dew)
+- 📝 I regularly write articles on [esadeecpol]()
 
-- 📄 Know about my experiences [dew](dew)
+- 📄 Know about my experiences [dew]()
 
 ## My Skills Include
 
