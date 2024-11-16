@@ -86,6 +86,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=javimartzs&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/javimartzs)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=javimartzs&theme=material-palenight)](https://github.com/javimartzs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javimartzs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
