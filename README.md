@@ -7,11 +7,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **Esade Center for Economic Policy**
+- 🔭 I’m currently working on **energy sector**
 
 - 🌱 I’m currently learning **Cloud Computing and DevOps management**
 
-- 👯 I’m looking to collaborate on **Data scientist projects**
+- 👯 I’m looking to collaborate on **Data scientist and analyst projects**
 
 - 👨‍💻 All of my projects are available at [portfolio projects]()
 
