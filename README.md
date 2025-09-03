@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Data scientist and analyst projects**
 
-- 👨‍💻 All of my projects are available at [portfolio projects]()
-
 - 📝 I regularly write articles on [EsadeEcPol](https://www.esade.edu/ecpol/es/publicaciones/)
 
 - 📄 Know about my experiences [resume]()
